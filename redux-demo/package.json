@@ -1,0 +1,15 @@
+{
+  "name": "redux-studying",
+  "version": "1.0.0",
+  "description": "A repository for redux experimentation and studying",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
